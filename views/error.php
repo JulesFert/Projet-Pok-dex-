@@ -1,0 +1,1 @@
+<h2 class="error">Erreur, page introuvable !</h2>

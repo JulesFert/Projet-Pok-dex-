@@ -1,0 +1,66 @@
+body {
+    background: url(images/wp2595119.jpg);   
+    font-family: 'Aldrich';
+    overflow: hidden;
+}
+
+.wrapper {
+    color: white;
+    position: relative;
+}
+
+.header__title {
+    position: absolute;
+    margin-left: 2rem;
+    margin-top: 8rem;
+    margin-bottom: 0;
+    font-size: 5.5rem;
+    letter-spacing: 0.2rem;
+    width: 50%;
+    line-height: 6rem;
+
+}
+
+.menu {
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+}
+
+.menu_item {
+    text-align: center;
+    font-size: 2.5rem;
+    border: 2px white solid;
+    width: 30rem;
+    padding: 1rem;
+    margin-top: 5rem;
+    margin-right: 3.5rem;
+    border-radius: 20px;
+}
+
+.menu_item a {
+    text-decoration: none;
+    color: white;
+}
+
+h2:nth-child(1) {
+    background-color: rgb(238, 33, 33);
+}
+
+h2:nth-child(2) {
+    background-color: rgb(40, 79, 255);
+}
+
+h2:nth-child(3) {
+    background-color: rgb(58, 207, 58);
+}
+
+h2:nth-child(4) {
+    background-color: rgb(207, 197, 58);
+}
+
+/* -------------------------------PAGE POKEMONS--------------------- */
+
+.page_title {
+    color: white;
+}
