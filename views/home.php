@@ -9,8 +9,20 @@
         </header>
 
         <section class="menu">
-            <h2 class="menu_item"><a href="index.php?page=pokemons">Pokemons</a></h2>
-            <h2 class="menu_item"><a href="index.php?page=types">Tableau des types</a></h2>
-            <h2 class="menu_item"><a href="index.php?page=credits">Crédits</a></h2>
-            <h2 class="menu_item"><a href="index.php?page=options">Options</a></h2>
+            <li class="menu_list">
+                <h2 class="menu_item"><a href="index.php?page=pokemons">Pokemons</a></h2>
+            </li>
+            <li class="menu_list">
+                <h2 class="menu_item"><a href="index.php?page=types">Tableau des types</a></h2>
+            </li>
+            <li class="menu_list">
+                <h2 class="menu_item"><a href="index.php?page=credits">Crédits</a></h2>
+            </li>
+            <li class="menu_list">
+                <h2 class="menu_item"><a href="index.php?page=options">Options</a></h2>
+            </li>
+           
+            
+           
+           
         </section>
